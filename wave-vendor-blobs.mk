@@ -37,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wave-common/proprietary/libtvoutfimc.so:system/lib/libtvoutfimc.so \
     vendor/samsung/wave-common/proprietary/libtvouthdmi.so:system/lib/libtvouthdmi.so \
     vendor/samsung/wave-common/proprietary/libtvoutservice.so:system/lib/libtvoutservice.so \
+    vendor/samsung/wave-common/proprietary/libakm.so:system/vendor/lib/libakm.so \
     vendor/samsung/wave-common/proprietary/tvoutserver:system/bin/tvoutserver \
-    vendor/samsung/wave-common/proprietary/libsensor_yamaha_test.so:system/vendor/lib/libsensor_yamaha_test.so \
-    vendor/samsung/wave-common/proprietary/orientationd:system/vendor/bin/orientationd \
-    vendor/samsung/wave-common/proprietary/geomagneticd:system/vendor/bin/geomagneticd
+    vendor/samsung/wave-common/proprietary/orientationd:system/vendor/bin/orientationd
