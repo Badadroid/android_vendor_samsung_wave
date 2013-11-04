@@ -15,7 +15,6 @@
 # All the blobs necessary for galaxys devices
 PRODUCT_COPY_FILES += \
     vendor/samsung/wave/proprietary/pvrsrvinit:system/vendor/bin/pvrsrvinit \
-    vendor/samsung/wave/proprietary/bcm4329.hcd:system/vendor/firmware/bcm4329.hcd \
     vendor/samsung/wave/proprietary/samsung_mfc_fw.bin:system/vendor/firmware/samsung_mfc_fw.bin \
     vendor/samsung/wave/proprietary/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/samsung/wave/proprietary/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
