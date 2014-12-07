@@ -14,7 +14,6 @@
 
 # All the blobs necessary for wave devices
 PRODUCT_COPY_FILES += \
-    vendor/samsung/wave/proprietary/pvrsrvinit:system/vendor/bin/pvrsrvinit \
     vendor/samsung/wave/proprietary/samsung_mfc_fw.bin:system/vendor/firmware/samsung_mfc_fw.bin \
     vendor/samsung/wave/proprietary/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
     vendor/samsung/wave/proprietary/libGLESv1_CM_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so \
