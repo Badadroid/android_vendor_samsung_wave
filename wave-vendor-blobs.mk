@@ -33,4 +33,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wave/proprietary/libtvoutfimc.so:system/lib/libtvoutfimc.so \
     vendor/samsung/wave/proprietary/libtvouthdmi.so:system/lib/libtvouthdmi.so \
     vendor/samsung/wave/proprietary/libtvoutservice.so:system/lib/libtvoutservice.so \
+    vendor/samsung/wave/proprietary/libakm.so:system/vendor/lib/libakm.so \
     vendor/samsung/wave/proprietary/tvoutserver:system/bin/tvoutserver
