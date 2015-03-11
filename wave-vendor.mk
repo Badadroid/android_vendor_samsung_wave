@@ -12,11 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Themes
-PRODUCT_PACKAGES := \
-    MagicSmokeWallpapers \
-    VisualizationWallpapers
-
 # Pick up overlay for features that depend on non-open-source files
 DEVICE_PACKAGE_OVERLAYS := vendor/samsung/wave/overlay
 
