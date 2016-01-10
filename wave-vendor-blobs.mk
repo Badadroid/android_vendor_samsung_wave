@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# All the blobs necessary for galaxys devices
+# All the blobs necessary for wave devices
 PRODUCT_COPY_FILES += \
     vendor/samsung/wave/proprietary/pvrsrvinit:system/vendor/bin/pvrsrvinit \
     vendor/samsung/wave/proprietary/samsung_mfc_fw.bin:system/vendor/firmware/samsung_mfc_fw.bin \
@@ -35,5 +35,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/wave/proprietary/libtvouthdmi.so:system/lib/libtvouthdmi.so \
     vendor/samsung/wave/proprietary/libtvoutservice.so:system/lib/libtvoutservice.so \
     vendor/samsung/wave/proprietary/libakm.so:system/vendor/lib/libakm.so \
-    vendor/samsung/wave/proprietary/tvoutserver:system/bin/tvoutserver \
-    vendor/samsung/wave/proprietary/orientationd:system/vendor/bin/orientationd
+    vendor/samsung/wave/proprietary/tvoutserver:system/bin/tvoutserver
